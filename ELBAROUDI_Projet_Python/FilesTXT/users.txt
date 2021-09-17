@@ -1,0 +1,7 @@
+1 ELBAROUDI Marouane 0626366292 Admin MR-ADMIN11 mdp11 Verifier
+2 white Walter 0626366293 Client Mr-Client1 mdpclient Verifier
+3 SNOW Jon 0753048719 Employeur Mr-Employeur1 emp123 Verifier
+4 SON Goku 0614215410 Client GK-CLIENT clt123 Verifier
+5 FREECSS Gon 0636692979 Employeur H-emp90 emp123 Verifier
+6 ELBAROUDI Marouane 0626366200 Client MR-clt22 testest Rejeter
+8 ELBAROUDI Marouane 0626366290 Client Mr-clt55 test00 Verifier
